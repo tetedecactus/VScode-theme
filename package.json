@@ -1,0 +1,21 @@
+{
+  "name": "op-dark",
+  "displayName": "OP dark",
+  "description": "One Piece base Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Piece Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Piece Theme-color-theme.json"
+      }
+    ]
+  }
+}
