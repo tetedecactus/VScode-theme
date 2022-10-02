@@ -1,9 +1,14 @@
 // Luffy color
-// 		black 	#1C1C1C
-//		red 	#C1323C
-// 		jaune 	#EDCE4B
-//		bleu	#4F6BB4
-//		beige	#E6B96F
+// 		black 		#1C1C1C
+//		red 		#C1323C
+// 		jaune 		#EDCE4B
+//		bleu		#4F6BB4
+//		beige		#E6B96F
+//		green 		#60A830
+//		mauve		#9090c0
+//		gris		#303030
+//		bleu-p		#A8D8F0
+//		bleu-gris	#A8D8D8
 
 {
 	"name": "One Piece Theme",
